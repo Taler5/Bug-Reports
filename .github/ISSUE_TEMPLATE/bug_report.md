@@ -2,12 +2,13 @@
 name: Bug report
 about: Create a report
 title: ''
-labels: ''
-assignees: ''
 
 ---
 
 ## Bug Report
+
+**Mod:**
+Which mod does your bug report refer to?
 
 **Description:**
 Please provide a clear and concise description of the bug.
