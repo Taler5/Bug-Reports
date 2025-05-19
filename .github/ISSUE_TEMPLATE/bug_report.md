@@ -1,9 +1,3 @@
----
-name: Bug report
-about: Create a report
-title: ''
-
----
 
 ## Bug Report
 
